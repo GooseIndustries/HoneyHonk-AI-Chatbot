@@ -65,7 +65,7 @@ Tired of chatting? Just type:
 
 exit
 quit
-bye
+bye)
 
 And HoneyHonk will buzz off.
 📜 License & Credits
@@ -75,4 +75,5 @@ And HoneyHonk will buzz off.
     Just don’t blame me when it starts demanding honey as payment. 🐝🍯
 
 Now go chat with HoneyHonk! 🚀🐝
-(this whole script has been written by chatgpt, we could not be bothered at all to change it)
+Additional Notes: For all you dummies you need to download the script for HoneyHonk before running it! (HoneyHonk.py)
+(this whole readme has been written by chatgpt, we could not be bothered at all to write it ourselves)
