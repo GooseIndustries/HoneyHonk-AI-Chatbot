@@ -2,7 +2,7 @@ HoneyHonk-AI-Chatbot
 🚀 What is HoneyHonk?
 
 HoneyHonk is an AI chatbot that runs on GPT-NeoX-20B (a massive language model).
-It’s smart, sassy, and occasionally confused—just like a real bee trying to figure out quantum physics.
+It’s smart, fun, and occasionally confused—just like a real bee trying to figure out quantum physics.
 
 This bot runs directly from your terminal with no extra setup. Just install the requirements, launch it, and start chatting!
 🛠️ Installation & Setup
@@ -35,12 +35,12 @@ You:
 Type something like:
 
 You: Hello there!
-HoneyHonk: Bzzz! Hey human, what’s up? 🐝
+HoneyHonk: Hey, want me to help you destroy the Earth?
 
 ✨ Features
 
 ✅ Super Smart – Uses GPT-NeoX-20B to generate responses
-✅ Sassy & Fun – Will try its best to sound witty
+✅ Humorous & Fun – Will try its best to sound witty
 ✅ Terminal-Based – No servers, no web apps, just pure chat
 🔧 Troubleshooting
 "Command not found" or "ModuleNotFoundError"?
